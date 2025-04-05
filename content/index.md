@@ -1,9 +1,10 @@
 +++
-title = "MarsDude.com"
+title = "MarsDude.eu"
 +++
 
 ## Welcome to my website.
 
-Started this on 2025-02-17, so not much to see here yet. But I have an updates section now.
+Started this on 2025-04-05, so not much to see here yet. I do have an updates section, but that is still empty at the moment.
 
-This is my latest update: [Anytype: My new productivity app?](/updates/2025/02-new-productivity-app-anytype/)
+Be kind,\
+Mars

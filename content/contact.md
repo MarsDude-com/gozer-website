@@ -2,6 +2,6 @@
 
 Want to say hi? You can find me here:
 
-* BlueSky : [@marsdude.com](https://bsky.app/profile/marsdude.com)
+* BlueSky : [@marsdude.eu](https://bsky.app/profile/marsdude.eu)
 * Mastodon : [@marsdude@social.linux.pizza](https://social.linux.pizza/@marsdude)
 
