@@ -4,9 +4,9 @@ title = "My first distro challenge"
 
 In the 29 years I have been using Linux, a LOT of distributions have lived inside my computer(s) for a period of time. Some for a couple of days, others for a lot longer.
 
-I am a notorious ditrohopper. Sometimes I get tired of it myself :-) 
+My first distro's I tried were Red Hat and Slackware, back in 1996. I still have those CD-ROMs! Slackware was my favourite for a long time. No matter what distro I tried, I always came back to it. I learned a lot from using Slackware. 
 
-My first distro's I tried were Red Hat and Slackware, back in 1996. I still have those CD-ROMs! Slackware was my favourite for a long time. No matter what distro I tried, I always came back to it. I learned a lotfrom using Slackware. 
+But... I'm a notorious distrohopper. Sometimes I get tired of it myself ;-)
 
 The last couple of years Void Linux and OpenSUSE (Tumbleweed and Leap) have been the ones I really liked. And at the moment OpenSUSE Leap is on my server, and Linux Mint on my laptop.
 
@@ -16,14 +16,13 @@ As with everything, a lot of opinions are continuously being thrown online about
 
 Ubuntu is a big and important distro, that did a lot for the adoption and development of Linux (no, don't send comments about GNU/Linux, about 'Linux is only the kernel' etc... When I say Linux I mean the whole ecosystem). So I thought it would be a nice idea to give Ubuntu a good and fair try. 
 
-So... a distro challenge! I am committing myself to using Ubuntu for the next 6 months, starting next week. On april 17th 2025, Ubuntu 25.04 will officially be released, so that one will be on my laptop. For my server, I'm going with 24.04 LTS.
+So... a distro challenge! I am committing myself to using Ubuntu for the next 6 months, starting next week. On april 17th 2025, Ubuntu 25.04 will officially be released, so that one will be on my laptop. For my server, I'm going with 24.04 LTS. The challenge will end when 25.10 is released.
 
 And I'll try using it as it was intended. So on my laptop I'll run the Gnome DE with the changes made to it by Ubuntu, I'll get a free pro account, I'll use snaps, etc, etc.
 
-And along the way, I'll post more updates about this little journey. I'm expecting the biggest challenge will be to resist the temptation to hop again within 6 months ;-)
+And along the way, I'll post more updates about this little journey. I'm expecting the biggest challenge will be to resist the temptation to hop again to 'try something new' within 6 months ;-)
 
 Wish me luck!
 
 MarsDude
 
-The challenge will end 
